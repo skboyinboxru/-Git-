@@ -87,6 +87,7 @@
 
 
 При необходимости прикрепитe сюда скриншоты
-![Граф коммитов](/-Git-/Graph.png)
+![image](https://github.com/skboyinboxru/-Git-/assets/169601051/ae14b72d-3303-4ccc-8720-e796fa921288)
+
 
 
